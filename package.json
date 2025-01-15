@@ -1,0 +1,8 @@
+{
+  "name": "heap-operations",
+  "version": "1.0.0",
+  "main": "Heap.js",
+  "description": "A simple implementation of Min-Heap and Max-Heap in JavaScript.",
+  "author": "Sai Pranith",
+  "license": "MIT"
+}
